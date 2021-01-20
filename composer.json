@@ -1,0 +1,18 @@
+{
+  "name": "alexgrizzled/convertnumbers",
+  "description": "Convert digits to Arabic and Roman numerals.",
+  "keywords": ["convert","numbers","arabic","roman"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "admin@alexrussoft.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "ext-mbstring": "*"
+  },
+  "version": "1.0"
+}
