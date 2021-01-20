@@ -14,5 +14,10 @@
     "php": ">=7.0.0",
     "ext-mbstring": "*"
   },
-  "version": "1.0"
+  "version": "1.0",
+  "autoload": {
+    "psr-4": {
+      "AlexGrizzled\\": "src"
+    }
+  }
 }
