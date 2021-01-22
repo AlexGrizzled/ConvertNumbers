@@ -2,7 +2,13 @@
 ## Convert digits to Arabic and Roman numerals.
 ## Конвертируем с римских цифр в арабские и наоборот.
 
+
+- **Via Composer**
+
+```bash
 composer require alexgrizzled/convertnumbers
+```
+
 ```php
 //Example php code
 require __DIR__ . '/vendor/autoload.php';
