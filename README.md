@@ -10,6 +10,7 @@ composer require alexgrizzled/convertnumbers
 ```
 
 ```php
+<?php
 //Example php code
 require __DIR__ . '/vendor/autoload.php';
 
