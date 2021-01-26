@@ -2,7 +2,7 @@
   "name": "alexgrizzled/convertnumbers",
   "description": "Convert digits to Arabic and Roman numerals.",
   "keywords": ["convert","numbers","arabic","roman"],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
